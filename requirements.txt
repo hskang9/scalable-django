@@ -12,7 +12,7 @@ graphql-relay==2.0.1
 prometheus-client==0.7.1
 promise==2.3
 psycopg2-binary==2.8.4
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2019.3
 Rx==1.6.1
 singledispatch==3.4.0.3
